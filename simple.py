@@ -17,3 +17,5 @@ def output():
     print(sorted_list[-1]['id'])
     return sorted_list
 
+
+output()
