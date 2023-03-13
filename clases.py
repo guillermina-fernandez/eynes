@@ -19,3 +19,7 @@ class Circulo(object):
         else:
             print(Circulo(self.radio * number))
 
+
+Circulo(8).area()
+Circulo(5).perimetro()
+Circulo(4) * 3
